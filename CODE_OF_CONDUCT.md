@@ -12,7 +12,7 @@ regardless of level of experience, gender, gender identity and expression,
 sexual orientation, disability, personal appearance,
 body size, race, ethnicity, age, religion, or nationality.
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behAvior by participants include:
 
 * The use of sexualized language or imagery
 * Personal attacks
